@@ -26,7 +26,7 @@ I am a frontend web developer and IoT developer
 
 
 </details>
-<details>
+
 <details>
 <summary>Hosted and organized events</summary>
 
@@ -39,4 +39,4 @@ I am a frontend web developer and IoT developer
 
 
 </details>
-<details>
+
