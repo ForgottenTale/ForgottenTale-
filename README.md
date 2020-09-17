@@ -1,3 +1,4 @@
 # ForgottenTale-
 
-### Hi there 
+### Hi there 👋
+[![HitCount](http://hits.dwyl.com/ ForgottenTale / ForgottenTale .svg)](http://hits.dwyl.com/ ForgottenTale / ForgottenTale )
