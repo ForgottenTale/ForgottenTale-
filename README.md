@@ -4,7 +4,7 @@
 
 I am a frontend web developer and IoT developer 
 
-[![HitCount](http://hits.dwyl.com/ForgottenTale/ForgottenTale.svg)](http://hits.dwyl.com/ForgottenTale/ForgottenTale)
+// [![HitCount](http://hits.dwyl.com/ForgottenTale/ForgottenTale.svg)](http://hits.dwyl.com/ForgottenTale/ForgottenTale)
 
 ### Skills
 
