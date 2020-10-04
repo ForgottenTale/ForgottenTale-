@@ -1,6 +1,6 @@
 # ForgottenTale-
 
-### Hi there 👋 i am Abhijith Kannan
+## Hi there 👋 i am Abhijith Kannan
 
 I am a frontend web developer and IoT developer 
 Microsoft Learn Student Ambassador
