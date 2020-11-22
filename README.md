@@ -1,4 +1,4 @@
-# ForgottenTale-
+# ForgottenTale
 
 ## Hi there 👋 i am Abhijith Kannan
 
