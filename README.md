@@ -4,7 +4,7 @@ I am a frontend web developer and IoT developer
 Microsoft Learn Student Ambassador, IEEE Volunteer
 
 
-### Skills
+## Skills
 
 - React.js
 - Arduino
@@ -12,7 +12,7 @@ Microsoft Learn Student Ambassador, IEEE Volunteer
 - Node.js
 - React Native
 
-### Activities
+## Activities
 
 <details>
 <summary>Hackathons List</summary>
